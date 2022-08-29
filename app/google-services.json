@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "721433572935",
+    "project_id": "pega-dc8f7",
+    "storage_bucket": "pega-dc8f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721433572935:android:736e687c6989cdbff0e362",
+        "android_client_info": {
+          "package_name": "com.vcc.thth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721433572935-1pagcivu40fb82pul018dqi3lu68umpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vcc.thth",
+            "certificate_hash": "259f27b649ffac8570aa6d6b1fd9b623d6e02977"
+          }
+        },
+        {
+          "client_id": "721433572935-fmvq3ti13oh6vgdgf0p7a0kjlva2vcn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaFaIJdORbKF6HOMn_99L6nlYnDTvgGPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721433572935-fmvq3ti13oh6vgdgf0p7a0kjlva2vcn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Text10TitleRegular400">
+        <item name="android:fontFamily">@font/sf_regular_400</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_7ssp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text10TitleMedium500">
+        <item name="android:fontFamily">@font/sf_medium_500</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_7ssp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text10TitleSemiBold600">
+        <item name="android:fontFamily">@font/sf_semibold_600</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_7ssp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text10TitleBold700">
+        <item name="android:fontFamily">@font/sf_bold_700</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_7ssp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text12TitleRegular400">
+        <item name="android:fontFamily">@font/sf_regular_400</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_9ssp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text12TitleMedium500">
+        <item name="android:fontFamily">@font/sf_medium_500</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_9ssp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text12TitleSemiBold600">
+        <item name="android:fontFamily">@font/sf_semibold_600</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_9ssp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text12TitleBold700">
+        <item name="android:fontFamily">@font/sf_bold_700</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_9ssp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text14TitleRegular400">
+        <item name="android:fontFamily">@font/sf_regular_400</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_10ssp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text14TitleMedium500">
+        <item name="android:fontFamily">@font/sf_medium_500</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_10ssp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text14TitleSemiBold600">
+        <item name="android:fontFamily">@font/sf_semibold_600</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_10ssp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text14TitleBold700">
+        <item name="android:fontFamily">@font/sf_bold_700</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_10ssp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text16TitleRegular400">
+        <item name="android:fontFamily">@font/sf_regular_400</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_14ssp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text16TitleMedium500">
+        <item name="android:fontFamily">@font/sf_medium_500</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_14ssp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text16TitleSemiBold600">
+        <item name="android:fontFamily">@font/sf_semibold_600</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_14ssp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text16TitleBold700">
+        <item name="android:fontFamily">@font/sf_bold_700</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_14ssp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text18TitleRegular400">
+        <item name="android:fontFamily">@font/sf_regular_400</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_16sdp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text18TitleMedium500">
+        <item name="android:fontFamily">@font/sf_medium_500</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_16sdp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text18TitleSemiBold600">
+        <item name="android:fontFamily">@font/sf_semibold_600</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_16sdp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text18TitleBold700">
+        <item name="android:fontFamily">@font/sf_bold_700</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_16sdp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text20TitleRegular400">
+        <item name="android:fontFamily">@font/sf_regular_400</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_18sdp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text20TitleMedium500">
+        <item name="android:fontFamily">@font/sf_medium_500</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_18sdp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text20TitleSemiBold600">
+        <item name="android:fontFamily">@font/sf_semibold_600</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_18sdp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+    <style name="Text20TitleBold700">
+        <item name="android:fontFamily">@font/sf_bold_700</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_18sdp</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+</resources>

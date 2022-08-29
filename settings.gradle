@@ -1,0 +1,2 @@
+rootProject.name = "THTH"
+include ':app'
