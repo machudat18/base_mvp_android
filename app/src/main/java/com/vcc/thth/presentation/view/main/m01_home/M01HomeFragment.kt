@@ -22,6 +22,7 @@ class M01HomeFragment : BaseFragment(R.layout.m01_fragment_home) {
 
     override fun getData() {
         viewModel.getData()
+
     }
 
 }
