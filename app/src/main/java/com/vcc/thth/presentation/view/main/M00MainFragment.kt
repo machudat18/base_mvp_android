@@ -1,6 +1,8 @@
 package com.vcc.thth.presentation.view.main
 
+import android.graphics.Color
 import android.graphics.drawable.Drawable
+import android.view.WindowManager
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import com.google.android.material.tabs.TabLayout

@@ -50,7 +50,7 @@
     <dimen name="size_150">150dp</dimen>
     <dimen name="size_164">164dp</dimen>
     <dimen name="size_180">180dp</dimen>
-    <dimen name="size_height_tab">50dp</dimen>
-    <dimen name="size_width_height_badge">2dp</dimen>
+    <dimen name="size_height_tab">@dimen/_50sdp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
 
 </resources>

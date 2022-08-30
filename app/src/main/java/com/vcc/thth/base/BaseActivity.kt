@@ -13,7 +13,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.findNavController
 import com.vcc.thth.R
-import com.vcc.thth.helper.DialogSnackBarUtils
+import com.vcc.thth.helper.DialogSnackBar
 import dagger.hilt.android.AndroidEntryPoint
 import timber.log.Timber
 import javax.inject.Inject
@@ -59,7 +59,7 @@ abstract class BaseActivity : AppCompatActivity() {
                 }
 
                 override fun onLost(network: Network) {
-                    DialogSnackBarUtils.showDisconnectSnackBar()
+                    DialogSnackBar.showDisconnectSnackBar()
                 }
             })
         }

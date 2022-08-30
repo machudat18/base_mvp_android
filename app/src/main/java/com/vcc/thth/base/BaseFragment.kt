@@ -2,6 +2,7 @@ package com.vcc.thth.base
 
 import android.os.Bundle
 import android.view.View
+import androidx.annotation.ColorRes
 import androidx.annotation.IdRes
 import androidx.annotation.LayoutRes
 import androidx.fragment.app.Fragment
@@ -88,6 +89,7 @@ abstract class BaseFragment(@LayoutRes layoutId: Int) : Fragment(layoutId) {
     protected fun popTo(@IdRes destination: Int) {
         findNavController().popBackStack(destination, true)
     }
+
 
     override fun onDestroy() {
         super.onDestroy()

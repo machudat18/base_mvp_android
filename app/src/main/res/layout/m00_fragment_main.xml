@@ -18,7 +18,7 @@
     <com.google.android.material.tabs.TabLayout
         android:id="@+id/tab_layout"
         android:layout_width="0dp"
-        android:layout_height="@dimen/size_height_tab"
+        android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -29,7 +29,5 @@
         app:itemTextColor="@drawable/bottom_nav_item_color"
         app:tabIndicatorHeight="0dp"
         android:elevation="25dp"
-        app:tabMode="fixed"
-        app:tabTextAppearance="@style/MyTabLayoutTextAppearance"
-        app:tabSelectedTextColor="@color/primary" />
+        app:tabMode="fixed" />
 </androidx.constraintlayout.widget.ConstraintLayout>

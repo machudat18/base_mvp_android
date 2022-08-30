@@ -7,7 +7,7 @@ import com.vcc.thth.presentation.MainActivity
 
 
 @SuppressLint("StaticFieldLeak")
-object DialogSnackBarUtils {
+object DialogSnackBar {
     private var activity: MainActivity? = null
     private var isShowSnackBar = false
     fun init(activity: MainActivity) {

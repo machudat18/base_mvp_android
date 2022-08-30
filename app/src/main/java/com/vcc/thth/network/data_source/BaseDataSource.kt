@@ -2,7 +2,7 @@ package com.vcc.thth.network.data_source
 
 import android.content.Context
 import com.vcc.thth.common.Constants
-import com.vcc.thth.helper.DialogSnackBarUtils
+import com.vcc.thth.helper.DialogSnackBar
 import com.vcc.thth.helper.InternetUtil
 import com.vcc.thth.helper.PreferenceHelper
 import com.vcc.thth.helper.Utility
@@ -24,7 +24,7 @@ abstract class BaseDataSource(private val mContext: Context) {
         try {
             PreferenceHelper.getInstance().get(Constants.Preference.TOKEN, "")
             if (!InternetUtil.isNetworkAvailable()) {
-                DialogSnackBarUtils.showDisconnectSnackBar()
+                DialogSnackBar.showDisconnectSnackBar()
                 return Resource.error("Không có kết nối mạng")
             }
             val response = apiCall()
